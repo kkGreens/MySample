@@ -3,7 +3,7 @@ package org.com;
 public class First {
 	
 	public void m1() {
-		System.out.println("Java");
+		System.out.println("Welcome");
 	}
 	
 	public void m2() {

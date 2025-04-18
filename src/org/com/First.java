@@ -3,7 +3,7 @@ package org.com;
 public class First {
 	
 	public void m1() {
-		System.out.println("Welcome");
+		System.out.println("Course");
 	}
 	
 	public void m2() {
